@@ -274,7 +274,7 @@ body {
   background: url('../images/gp_icon_download.png') no-repeat center / 100%;
 }
 .icon-age {
-	background: url('../images/gp_icon_age.png') no-repeat center / 100%;
+	background: url('./gl_icon_age18.png') no-repeat center / 100%;
 	text-align: center;
 	margin-left: 0.65rem;
 }
